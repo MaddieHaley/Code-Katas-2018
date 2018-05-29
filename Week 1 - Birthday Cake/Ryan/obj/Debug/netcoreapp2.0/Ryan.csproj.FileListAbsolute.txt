@@ -1,0 +1,11 @@
+C:\Users\r.peterson\Documents\GitHub\Code-Katas-2018\Week 1 - Birthday Cake\Ryan\bin\Debug\netcoreapp2.0\Ryan.deps.json
+C:\Users\r.peterson\Documents\GitHub\Code-Katas-2018\Week 1 - Birthday Cake\Ryan\bin\Debug\netcoreapp2.0\Ryan.runtimeconfig.json
+C:\Users\r.peterson\Documents\GitHub\Code-Katas-2018\Week 1 - Birthday Cake\Ryan\bin\Debug\netcoreapp2.0\Ryan.runtimeconfig.dev.json
+C:\Users\r.peterson\Documents\GitHub\Code-Katas-2018\Week 1 - Birthday Cake\Ryan\bin\Debug\netcoreapp2.0\Ryan.dll
+C:\Users\r.peterson\Documents\GitHub\Code-Katas-2018\Week 1 - Birthday Cake\Ryan\bin\Debug\netcoreapp2.0\Ryan.pdb
+C:\Users\r.peterson\Documents\GitHub\Code-Katas-2018\Week 1 - Birthday Cake\Ryan\obj\Debug\netcoreapp2.0\Ryan.csprojAssemblyReference.cache
+C:\Users\r.peterson\Documents\GitHub\Code-Katas-2018\Week 1 - Birthday Cake\Ryan\obj\Debug\netcoreapp2.0\Ryan.csproj.CoreCompileInputs.cache
+C:\Users\r.peterson\Documents\GitHub\Code-Katas-2018\Week 1 - Birthday Cake\Ryan\obj\Debug\netcoreapp2.0\Ryan.AssemblyInfoInputs.cache
+C:\Users\r.peterson\Documents\GitHub\Code-Katas-2018\Week 1 - Birthday Cake\Ryan\obj\Debug\netcoreapp2.0\Ryan.AssemblyInfo.cs
+C:\Users\r.peterson\Documents\GitHub\Code-Katas-2018\Week 1 - Birthday Cake\Ryan\obj\Debug\netcoreapp2.0\Ryan.dll
+C:\Users\r.peterson\Documents\GitHub\Code-Katas-2018\Week 1 - Birthday Cake\Ryan\obj\Debug\netcoreapp2.0\Ryan.pdb
