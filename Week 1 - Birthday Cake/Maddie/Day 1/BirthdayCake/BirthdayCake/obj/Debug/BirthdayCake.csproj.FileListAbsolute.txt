@@ -1,0 +1,7 @@
+C:\Users\M.Cox\Documents\GitHub\Code-Katas-2018\Week 1 - Birthday Cake\Maddie\Day 1\BirthdayCake\BirthdayCake\bin\Debug\BirthdayCake.exe.config
+C:\Users\M.Cox\Documents\GitHub\Code-Katas-2018\Week 1 - Birthday Cake\Maddie\Day 1\BirthdayCake\BirthdayCake\bin\Debug\BirthdayCake.exe
+C:\Users\M.Cox\Documents\GitHub\Code-Katas-2018\Week 1 - Birthday Cake\Maddie\Day 1\BirthdayCake\BirthdayCake\bin\Debug\BirthdayCake.pdb
+C:\Users\M.Cox\Documents\GitHub\Code-Katas-2018\Week 1 - Birthday Cake\Maddie\Day 1\BirthdayCake\BirthdayCake\obj\Debug\BirthdayCake.csprojAssemblyReference.cache
+C:\Users\M.Cox\Documents\GitHub\Code-Katas-2018\Week 1 - Birthday Cake\Maddie\Day 1\BirthdayCake\BirthdayCake\obj\Debug\BirthdayCake.csproj.CoreCompileInputs.cache
+C:\Users\M.Cox\Documents\GitHub\Code-Katas-2018\Week 1 - Birthday Cake\Maddie\Day 1\BirthdayCake\BirthdayCake\obj\Debug\BirthdayCake.exe
+C:\Users\M.Cox\Documents\GitHub\Code-Katas-2018\Week 1 - Birthday Cake\Maddie\Day 1\BirthdayCake\BirthdayCake\obj\Debug\BirthdayCake.pdb
