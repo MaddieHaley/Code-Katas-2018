@@ -1,0 +1,11 @@
+C:\Users\r.peterson\Documents\GitHub\Code-Katas-2018\Week 2 - Diagonal Difference\Ryan\Day 1\Day 1\bin\Debug\netcoreapp2.0\Day 1.deps.json
+C:\Users\r.peterson\Documents\GitHub\Code-Katas-2018\Week 2 - Diagonal Difference\Ryan\Day 1\Day 1\bin\Debug\netcoreapp2.0\Day 1.runtimeconfig.json
+C:\Users\r.peterson\Documents\GitHub\Code-Katas-2018\Week 2 - Diagonal Difference\Ryan\Day 1\Day 1\bin\Debug\netcoreapp2.0\Day 1.runtimeconfig.dev.json
+C:\Users\r.peterson\Documents\GitHub\Code-Katas-2018\Week 2 - Diagonal Difference\Ryan\Day 1\Day 1\bin\Debug\netcoreapp2.0\Day 1.dll
+C:\Users\r.peterson\Documents\GitHub\Code-Katas-2018\Week 2 - Diagonal Difference\Ryan\Day 1\Day 1\bin\Debug\netcoreapp2.0\Day 1.pdb
+C:\Users\r.peterson\Documents\GitHub\Code-Katas-2018\Week 2 - Diagonal Difference\Ryan\Day 1\Day 1\obj\Debug\netcoreapp2.0\Day 1.csprojAssemblyReference.cache
+C:\Users\r.peterson\Documents\GitHub\Code-Katas-2018\Week 2 - Diagonal Difference\Ryan\Day 1\Day 1\obj\Debug\netcoreapp2.0\Day 1.csproj.CoreCompileInputs.cache
+C:\Users\r.peterson\Documents\GitHub\Code-Katas-2018\Week 2 - Diagonal Difference\Ryan\Day 1\Day 1\obj\Debug\netcoreapp2.0\Day 1.AssemblyInfoInputs.cache
+C:\Users\r.peterson\Documents\GitHub\Code-Katas-2018\Week 2 - Diagonal Difference\Ryan\Day 1\Day 1\obj\Debug\netcoreapp2.0\Day 1.AssemblyInfo.cs
+C:\Users\r.peterson\Documents\GitHub\Code-Katas-2018\Week 2 - Diagonal Difference\Ryan\Day 1\Day 1\obj\Debug\netcoreapp2.0\Day 1.dll
+C:\Users\r.peterson\Documents\GitHub\Code-Katas-2018\Week 2 - Diagonal Difference\Ryan\Day 1\Day 1\obj\Debug\netcoreapp2.0\Day 1.pdb
