@@ -1,0 +1,7 @@
+C:\Users\M.Cox\Documents\GitHub\Code-Katas-2018\Week 2 - Diagonal Difference\Maddie\Day 1\DiagonalSumDay1\DiagonalSumDay1\bin\Debug\DiagonalSumDay1.exe.config
+C:\Users\M.Cox\Documents\GitHub\Code-Katas-2018\Week 2 - Diagonal Difference\Maddie\Day 1\DiagonalSumDay1\DiagonalSumDay1\bin\Debug\DiagonalSumDay1.exe
+C:\Users\M.Cox\Documents\GitHub\Code-Katas-2018\Week 2 - Diagonal Difference\Maddie\Day 1\DiagonalSumDay1\DiagonalSumDay1\bin\Debug\DiagonalSumDay1.pdb
+C:\Users\M.Cox\Documents\GitHub\Code-Katas-2018\Week 2 - Diagonal Difference\Maddie\Day 1\DiagonalSumDay1\DiagonalSumDay1\obj\Debug\DiagonalSumDay1.csprojAssemblyReference.cache
+C:\Users\M.Cox\Documents\GitHub\Code-Katas-2018\Week 2 - Diagonal Difference\Maddie\Day 1\DiagonalSumDay1\DiagonalSumDay1\obj\Debug\DiagonalSumDay1.csproj.CoreCompileInputs.cache
+C:\Users\M.Cox\Documents\GitHub\Code-Katas-2018\Week 2 - Diagonal Difference\Maddie\Day 1\DiagonalSumDay1\DiagonalSumDay1\obj\Debug\DiagonalSumDay1.exe
+C:\Users\M.Cox\Documents\GitHub\Code-Katas-2018\Week 2 - Diagonal Difference\Maddie\Day 1\DiagonalSumDay1\DiagonalSumDay1\obj\Debug\DiagonalSumDay1.pdb
