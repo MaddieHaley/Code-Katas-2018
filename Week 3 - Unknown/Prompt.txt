@@ -1,0 +1,10 @@
+Make a pig latin translator method that accepts an english phrase and return the translated phrase. 
+
+To form pig latin words from words beginning with a consonant, move the consonant and any adjacent consonants from the beginning of the word to the end of the word. Then add the suffix -ay to the end of the word.
+
+To form pig latin words from words beginning with vowels, all you need to do is add -yay to the end of the word.
+
+Words with "Y" can be tricky:
+	If a word starts with Y, it is treated like a consonant and is moved to the end of the word, as usual.
+	The normal rules apply if Y is the second letter in a two letter word.
+	If the letter Y comes at the end of a consonant cluster, it is treated like a vowel and does not move to the end of the word.
