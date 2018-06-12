@@ -45,6 +45,10 @@ namespace Day1
         /// <returns></returns>
         public static string Translate(string phrase)
         {
+            // Returns nothing if the input is nothing
+            if (phrase == null || phrase.Equals(""))
+                return "";
+
             // Splits the sentence into words by spaces and makes it lowercase
             string[] sentence = phrase.ToLower().Split(' ');
             // Creates a variable to store the output
@@ -70,7 +74,7 @@ namespace Day1
                 output += TranslateWord(word) + punct + " ";
             }
 
-            return output;
+            return output.Substring(0, output.Length - 1);
         }
 
         /// <summary>

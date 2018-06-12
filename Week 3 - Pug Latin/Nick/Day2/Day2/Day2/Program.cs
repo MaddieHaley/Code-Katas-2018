@@ -4,6 +4,7 @@ using System.Linq;
 using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
+using Xunit;
 
 namespace Day2
 {
@@ -22,7 +23,8 @@ namespace Day2
                 Console.WriteLine(PigLatin.Translate(input));
 
                 Console.WriteLine("\nContinue?");
-                if (!Console.ReadLine().ToLower().Equals("y"))
+                input = Console.ReadLine();
+                if (input == null || !input.ToLower().Equals("y"))
                     cont = false;
             }
         }
@@ -35,6 +37,9 @@ namespace Day2
 
         public static string Translate(string phrase)
         {
+            if (phrase == null || phrase.Equals(""))
+                return "";
+
             string output = "";
 
             foreach (string word in phrase.ToLower().Split(' '))
@@ -45,7 +50,7 @@ namespace Day2
                     output += TranslateWord(word) + " ";
             }
 
-            return output;
+            return output.Substring(0, output.Length - 1);
         }
 
         public static string TranslateWord(string word)
@@ -94,7 +99,7 @@ namespace Day2
         {
             foreach (char c in chunk.ToCharArray())
             {
-                if (VOWELS.Contains(c))
+                if (VOWELS.Contains(c) || c == 'y')
                     return false;
             }
 
