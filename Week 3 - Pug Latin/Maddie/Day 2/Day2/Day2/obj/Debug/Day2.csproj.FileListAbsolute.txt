@@ -1,0 +1,7 @@
+C:\Users\M.Cox\Documents\GitHub\Code-Katas-2018\Week 3 - Pug Latin\Maddie\Day 2\Day2\Day2\bin\Debug\Day2.exe.config
+C:\Users\M.Cox\Documents\GitHub\Code-Katas-2018\Week 3 - Pug Latin\Maddie\Day 2\Day2\Day2\bin\Debug\Day2.exe
+C:\Users\M.Cox\Documents\GitHub\Code-Katas-2018\Week 3 - Pug Latin\Maddie\Day 2\Day2\Day2\bin\Debug\Day2.pdb
+C:\Users\M.Cox\Documents\GitHub\Code-Katas-2018\Week 3 - Pug Latin\Maddie\Day 2\Day2\Day2\obj\Debug\Day2.csprojAssemblyReference.cache
+C:\Users\M.Cox\Documents\GitHub\Code-Katas-2018\Week 3 - Pug Latin\Maddie\Day 2\Day2\Day2\obj\Debug\Day2.csproj.CoreCompileInputs.cache
+C:\Users\M.Cox\Documents\GitHub\Code-Katas-2018\Week 3 - Pug Latin\Maddie\Day 2\Day2\Day2\obj\Debug\Day2.exe
+C:\Users\M.Cox\Documents\GitHub\Code-Katas-2018\Week 3 - Pug Latin\Maddie\Day 2\Day2\Day2\obj\Debug\Day2.pdb
