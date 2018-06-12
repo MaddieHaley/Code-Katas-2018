@@ -1,0 +1,7 @@
+C:\Users\n.rose\Documents\GitHub\Code-Katas-2018\Week 3 - Unknown\Nick\Day2\Day2\Day2\bin\Debug\Day2.exe.config
+C:\Users\n.rose\Documents\GitHub\Code-Katas-2018\Week 3 - Unknown\Nick\Day2\Day2\Day2\bin\Debug\Day2.exe
+C:\Users\n.rose\Documents\GitHub\Code-Katas-2018\Week 3 - Unknown\Nick\Day2\Day2\Day2\bin\Debug\Day2.pdb
+C:\Users\n.rose\Documents\GitHub\Code-Katas-2018\Week 3 - Unknown\Nick\Day2\Day2\Day2\obj\Debug\Day2.csprojAssemblyReference.cache
+C:\Users\n.rose\Documents\GitHub\Code-Katas-2018\Week 3 - Unknown\Nick\Day2\Day2\Day2\obj\Debug\Day2.csproj.CoreCompileInputs.cache
+C:\Users\n.rose\Documents\GitHub\Code-Katas-2018\Week 3 - Unknown\Nick\Day2\Day2\Day2\obj\Debug\Day2.exe
+C:\Users\n.rose\Documents\GitHub\Code-Katas-2018\Week 3 - Unknown\Nick\Day2\Day2\Day2\obj\Debug\Day2.pdb
