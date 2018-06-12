@@ -26,6 +26,7 @@ namespace Day2
             Assert.Equal("yphenatedhay",               PigLatin.Translate("hyphenated")         );
             Assert.Equal("urplepay eoplepay eateryay", PigLatin.Translate("purple people eater"));
             Assert.Equal("ybay",                       PigLatin.Translate("by")                 );
+            Assert.Equal("",                           PigLatin.Translate("")                   );
         }
     }
 }
