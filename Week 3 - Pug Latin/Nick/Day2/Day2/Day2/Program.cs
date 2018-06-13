@@ -66,9 +66,18 @@ namespace Day2
             if (IsConsChunk(word))
                 return word[word.Length - 1] + word.Substring(0, word.Length - 1);
 
-            string consChunk = GetConsChunk(word);
+            if (word[0] == 'y')
+            {
+                string consChunk = GetConsChunk(word.Substring(1, word.Length - 1));
 
-            return word.Substring(consChunk.Length, word.Length - consChunk.Length) + consChunk;
+                return word.Substring(consChunk.Length + 1, word.Length - (consChunk.Length + 1)) + 'y' + consChunk;
+            }
+            else
+            {
+                string consChunk = GetConsChunk(word);
+
+                return word.Substring(consChunk.Length, word.Length - consChunk.Length) + consChunk;
+            }
         }
 
         public static string GetConsChunk(string chunk)
@@ -80,8 +89,6 @@ namespace Day2
                 else
                     return chunk;
             }
-            //else if (chunk.Length < 1)
-            //    return "";
 
             int h1s = chunk.Length / 2;
             int h2s = chunk.Length - h1s;

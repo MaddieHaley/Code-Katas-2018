@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Xunit;
 
-namespace Day1
+namespace Day3
 {
     public class PigLatinTests
     {
