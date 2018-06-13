@@ -1,0 +1,28 @@
+c:\users\a.velasco\source\repos\Day3\Day3\bin\Debug\VowelBase.mdf
+c:\users\a.velasco\source\repos\Day3\Day3\bin\Debug\VowelBase_log.ldf
+c:\users\a.velasco\source\repos\Day3\Day3\bin\Debug\EntityFramework.dll
+c:\users\a.velasco\source\repos\Day3\Day3\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\a.velasco\source\repos\Day3\Day3\bin\Debug\EntityFramework.xml
+c:\users\a.velasco\source\repos\Day3\Day3\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\a.velasco\source\repos\Day3\Day3\obj\Debug\Day3.csprojAssemblyReference.cache
+c:\users\a.velasco\source\repos\Day3\Day3\obj\Debug\Day3.csproj.CoreCompileInputs.cache
+c:\users\a.velasco\source\repos\Day3\Day3\obj\Debug\Day3.csproj.CopyComplete
+c:\users\a.velasco\source\repos\Day3\Day3\obj\Debug\Day3.exe
+c:\users\a.velasco\source\repos\Day3\Day3\obj\Debug\Day3.pdb
+C:\Users\A.Velasco\source\repos\Day3\Day3\bin\Debug\Day3.exe.config
+C:\Users\A.Velasco\source\repos\Day3\Day3\bin\Debug\Day3.exe
+C:\Users\A.Velasco\source\repos\Day3\Day3\bin\Debug\Day3.pdb
+C:\Users\A.Velasco\Documents\GitHub\Code-Katas-2018\Week 3 - Unknown\Alfonso\Day3\Day3\bin\Debug\VowelBase.mdf
+C:\Users\A.Velasco\Documents\GitHub\Code-Katas-2018\Week 3 - Unknown\Alfonso\Day3\Day3\bin\Debug\VowelBase_log.ldf
+C:\Users\A.Velasco\Documents\GitHub\Code-Katas-2018\Week 3 - Unknown\Alfonso\Day3\Day3\bin\Debug\Day3.exe.config
+C:\Users\A.Velasco\Documents\GitHub\Code-Katas-2018\Week 3 - Unknown\Alfonso\Day3\Day3\bin\Debug\Day3.exe
+C:\Users\A.Velasco\Documents\GitHub\Code-Katas-2018\Week 3 - Unknown\Alfonso\Day3\Day3\bin\Debug\Day3.pdb
+C:\Users\A.Velasco\Documents\GitHub\Code-Katas-2018\Week 3 - Unknown\Alfonso\Day3\Day3\bin\Debug\EntityFramework.dll
+C:\Users\A.Velasco\Documents\GitHub\Code-Katas-2018\Week 3 - Unknown\Alfonso\Day3\Day3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\A.Velasco\Documents\GitHub\Code-Katas-2018\Week 3 - Unknown\Alfonso\Day3\Day3\bin\Debug\EntityFramework.xml
+C:\Users\A.Velasco\Documents\GitHub\Code-Katas-2018\Week 3 - Unknown\Alfonso\Day3\Day3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\A.Velasco\Documents\GitHub\Code-Katas-2018\Week 3 - Unknown\Alfonso\Day3\Day3\obj\Debug\Day3.csprojAssemblyReference.cache
+C:\Users\A.Velasco\Documents\GitHub\Code-Katas-2018\Week 3 - Unknown\Alfonso\Day3\Day3\obj\Debug\Day3.csproj.CoreCompileInputs.cache
+C:\Users\A.Velasco\Documents\GitHub\Code-Katas-2018\Week 3 - Unknown\Alfonso\Day3\Day3\obj\Debug\Day3.csproj.CopyComplete
+C:\Users\A.Velasco\Documents\GitHub\Code-Katas-2018\Week 3 - Unknown\Alfonso\Day3\Day3\obj\Debug\Day3.exe
+C:\Users\A.Velasco\Documents\GitHub\Code-Katas-2018\Week 3 - Unknown\Alfonso\Day3\Day3\obj\Debug\Day3.pdb
