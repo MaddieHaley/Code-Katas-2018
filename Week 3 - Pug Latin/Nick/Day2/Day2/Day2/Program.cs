@@ -4,6 +4,7 @@ using System.Linq;
 using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
+using Xunit;
 
 namespace Day2
 {
@@ -22,7 +23,8 @@ namespace Day2
                 Console.WriteLine(PigLatin.Translate(input));
 
                 Console.WriteLine("\nContinue?");
-                if (!Console.ReadLine().ToLower().Equals("y"))
+                input = Console.ReadLine();
+                if (input == null || !input.ToLower().Equals("y"))
                     cont = false;
             }
         }
@@ -35,6 +37,9 @@ namespace Day2
 
         public static string Translate(string phrase)
         {
+            if (phrase == null || phrase.Equals(""))
+                return "";
+
             string output = "";
 
             foreach (string word in phrase.ToLower().Split(' '))
@@ -45,7 +50,7 @@ namespace Day2
                     output += TranslateWord(word) + " ";
             }
 
-            return output;
+            return output.Substring(0, output.Length - 1);
         }
 
         public static string TranslateWord(string word)
@@ -61,9 +66,18 @@ namespace Day2
             if (IsConsChunk(word))
                 return word[word.Length - 1] + word.Substring(0, word.Length - 1);
 
-            string consChunk = GetConsChunk(word);
+            if (word[0] == 'y')
+            {
+                string consChunk = GetConsChunk(word.Substring(1, word.Length - 1));
 
-            return word.Substring(consChunk.Length, word.Length - consChunk.Length) + consChunk;
+                return word.Substring(consChunk.Length + 1, word.Length - (consChunk.Length + 1)) + 'y' + consChunk;
+            }
+            else
+            {
+                string consChunk = GetConsChunk(word);
+
+                return word.Substring(consChunk.Length, word.Length - consChunk.Length) + consChunk;
+            }
         }
 
         public static string GetConsChunk(string chunk)
@@ -75,8 +89,6 @@ namespace Day2
                 else
                     return chunk;
             }
-            //else if (chunk.Length < 1)
-            //    return "";
 
             int h1s = chunk.Length / 2;
             int h2s = chunk.Length - h1s;
@@ -94,7 +106,7 @@ namespace Day2
         {
             foreach (char c in chunk.ToCharArray())
             {
-                if (VOWELS.Contains(c))
+                if (VOWELS.Contains(c) || c == 'y')
                     return false;
             }
 
