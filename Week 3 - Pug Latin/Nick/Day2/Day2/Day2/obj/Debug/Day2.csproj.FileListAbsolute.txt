@@ -1,0 +1,25 @@
+C:\Users\n.rose\Documents\GitHub\Code-Katas-2018\Week 3 - Unknown\Nick\Day2\Day2\Day2\bin\Debug\Day2.exe.config
+C:\Users\n.rose\Documents\GitHub\Code-Katas-2018\Week 3 - Unknown\Nick\Day2\Day2\Day2\bin\Debug\Day2.exe
+C:\Users\n.rose\Documents\GitHub\Code-Katas-2018\Week 3 - Unknown\Nick\Day2\Day2\Day2\bin\Debug\Day2.pdb
+C:\Users\n.rose\Documents\GitHub\Code-Katas-2018\Week 3 - Unknown\Nick\Day2\Day2\Day2\obj\Debug\Day2.csprojAssemblyReference.cache
+C:\Users\n.rose\Documents\GitHub\Code-Katas-2018\Week 3 - Unknown\Nick\Day2\Day2\Day2\obj\Debug\Day2.csproj.CoreCompileInputs.cache
+C:\Users\n.rose\Documents\GitHub\Code-Katas-2018\Week 3 - Unknown\Nick\Day2\Day2\Day2\obj\Debug\Day2.exe
+C:\Users\n.rose\Documents\GitHub\Code-Katas-2018\Week 3 - Unknown\Nick\Day2\Day2\Day2\obj\Debug\Day2.pdb
+C:\Users\n.rose\Documents\GitHub\Code-Katas-2018\Week 3 - Pug Latin\Nick\Day2\Day2\Day2\bin\Debug\Day2.exe.config
+C:\Users\n.rose\Documents\GitHub\Code-Katas-2018\Week 3 - Pug Latin\Nick\Day2\Day2\Day2\bin\Debug\Day2.exe
+C:\Users\n.rose\Documents\GitHub\Code-Katas-2018\Week 3 - Pug Latin\Nick\Day2\Day2\Day2\bin\Debug\Day2.pdb
+C:\Users\n.rose\Documents\GitHub\Code-Katas-2018\Week 3 - Pug Latin\Nick\Day2\Day2\Day2\obj\Debug\Day2.csprojAssemblyReference.cache
+C:\Users\n.rose\Documents\GitHub\Code-Katas-2018\Week 3 - Pug Latin\Nick\Day2\Day2\Day2\obj\Debug\Day2.csproj.CoreCompileInputs.cache
+C:\Users\n.rose\Documents\GitHub\Code-Katas-2018\Week 3 - Pug Latin\Nick\Day2\Day2\Day2\obj\Debug\Day2.csproj.CopyComplete
+C:\Users\n.rose\Documents\GitHub\Code-Katas-2018\Week 3 - Pug Latin\Nick\Day2\Day2\Day2\obj\Debug\Day2.exe
+C:\Users\n.rose\Documents\GitHub\Code-Katas-2018\Week 3 - Pug Latin\Nick\Day2\Day2\Day2\obj\Debug\Day2.pdb
+C:\Users\n.rose\Documents\GitHub\Code-Katas-2018\Week 3 - Pug Latin\Nick\Day2\Day2\Day2\bin\Debug\xunit.abstractions.dll
+C:\Users\n.rose\Documents\GitHub\Code-Katas-2018\Week 3 - Pug Latin\Nick\Day2\Day2\Day2\bin\Debug\xunit.assert.dll
+C:\Users\n.rose\Documents\GitHub\Code-Katas-2018\Week 3 - Pug Latin\Nick\Day2\Day2\Day2\bin\Debug\xunit.core.dll
+C:\Users\n.rose\Documents\GitHub\Code-Katas-2018\Week 3 - Pug Latin\Nick\Day2\Day2\Day2\bin\Debug\xunit.execution.desktop.dll
+C:\Users\n.rose\Documents\GitHub\Code-Katas-2018\Week 3 - Pug Latin\Nick\Day2\Day2\Day2\bin\Debug\xunit.assert.xml
+C:\Users\n.rose\Documents\GitHub\Code-Katas-2018\Week 3 - Pug Latin\Nick\Day2\Day2\Day2\bin\Debug\xunit.core.xml
+C:\Users\n.rose\Documents\GitHub\Code-Katas-2018\Week 3 - Pug Latin\Nick\Day2\Day2\Day2\bin\Debug\xunit.execution.desktop.xml
+C:\Users\n.rose\Documents\GitHub\Code-Katas-2018\Week 3 - Pug Latin\Nick\Day2\Day2\Day2\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\n.rose\Documents\GitHub\Code-Katas-2018\Week 3 - Pug Latin\Nick\Day2\Day2\Day2\bin\Debug\xunit.runner.reporters.net452.dll
+C:\Users\n.rose\Documents\GitHub\Code-Katas-2018\Week 3 - Pug Latin\Nick\Day2\Day2\Day2\bin\Debug\xunit.runner.utility.net452.dll
