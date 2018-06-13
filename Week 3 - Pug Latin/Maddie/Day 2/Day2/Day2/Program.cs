@@ -29,7 +29,7 @@ namespace Day2
             }
         }
 
-        static string PigLatinWord(string word)
+        public static string PigLatinWord(string word)
         {
             switch (getType(word[0]))
             {

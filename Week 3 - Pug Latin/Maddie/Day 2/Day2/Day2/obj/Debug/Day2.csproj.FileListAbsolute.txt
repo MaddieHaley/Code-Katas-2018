@@ -5,3 +5,14 @@ C:\Users\M.Cox\Documents\GitHub\Code-Katas-2018\Week 3 - Pug Latin\Maddie\Day 2\
 C:\Users\M.Cox\Documents\GitHub\Code-Katas-2018\Week 3 - Pug Latin\Maddie\Day 2\Day2\Day2\obj\Debug\Day2.csproj.CoreCompileInputs.cache
 C:\Users\M.Cox\Documents\GitHub\Code-Katas-2018\Week 3 - Pug Latin\Maddie\Day 2\Day2\Day2\obj\Debug\Day2.exe
 C:\Users\M.Cox\Documents\GitHub\Code-Katas-2018\Week 3 - Pug Latin\Maddie\Day 2\Day2\Day2\obj\Debug\Day2.pdb
+C:\Users\M.Cox\Documents\GitHub\Code-Katas-2018\Week 3 - Pug Latin\Maddie\Day 2\Day2\Day2\obj\Debug\Day2.csproj.CopyComplete
+C:\Users\M.Cox\Documents\GitHub\Code-Katas-2018\Week 3 - Pug Latin\Maddie\Day 2\Day2\Day2\bin\Debug\xunit.abstractions.dll
+C:\Users\M.Cox\Documents\GitHub\Code-Katas-2018\Week 3 - Pug Latin\Maddie\Day 2\Day2\Day2\bin\Debug\xunit.assert.dll
+C:\Users\M.Cox\Documents\GitHub\Code-Katas-2018\Week 3 - Pug Latin\Maddie\Day 2\Day2\Day2\bin\Debug\xunit.core.dll
+C:\Users\M.Cox\Documents\GitHub\Code-Katas-2018\Week 3 - Pug Latin\Maddie\Day 2\Day2\Day2\bin\Debug\xunit.execution.desktop.dll
+C:\Users\M.Cox\Documents\GitHub\Code-Katas-2018\Week 3 - Pug Latin\Maddie\Day 2\Day2\Day2\bin\Debug\xunit.assert.xml
+C:\Users\M.Cox\Documents\GitHub\Code-Katas-2018\Week 3 - Pug Latin\Maddie\Day 2\Day2\Day2\bin\Debug\xunit.core.xml
+C:\Users\M.Cox\Documents\GitHub\Code-Katas-2018\Week 3 - Pug Latin\Maddie\Day 2\Day2\Day2\bin\Debug\xunit.execution.desktop.xml
+C:\Users\M.Cox\Documents\GitHub\Code-Katas-2018\Week 3 - Pug Latin\Maddie\Day 2\Day2\Day2\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\M.Cox\Documents\GitHub\Code-Katas-2018\Week 3 - Pug Latin\Maddie\Day 2\Day2\Day2\bin\Debug\xunit.runner.reporters.net452.dll
+C:\Users\M.Cox\Documents\GitHub\Code-Katas-2018\Week 3 - Pug Latin\Maddie\Day 2\Day2\Day2\bin\Debug\xunit.runner.utility.net452.dll
