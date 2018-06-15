@@ -11,8 +11,9 @@ namespace Day3
         static void Main(string[] args)
         {
             Console.Write("Input a word or phrase so that it can be translated\n");
-            string word = Console.ReadLine().ToLower();
-            Console.WriteLine(PigLatin(word));
+            
+            Console.WriteLine(PigLatin(Console.ReadLine().ToLower()));
+            Console.ReadLine();
             Console.ReadLine();
             
         }
@@ -39,7 +40,7 @@ namespace Day3
                     if(type(respArray[i]) == Typeof.vowel || type(respArray[i]) == Typeof.y )
                     {
 
-                        for (index = i; index < resp.Length - 1; index++)
+                        for (index = i; index < resp.Length; index++)
                         {
                             start.Add(respArray[index]);
                         }

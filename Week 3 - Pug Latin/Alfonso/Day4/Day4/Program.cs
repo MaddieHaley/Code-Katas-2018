@@ -15,6 +15,7 @@ namespace Day4
             Console.WriteLine("Enter a word so that it can be translated into Pig Latin!");
             Console.WriteLine(PigLatin(Console.ReadLine()));
             Console.ReadLine();
+            Console.ReadLine();
         }
         public static string PigLatin(string resp)
         {
