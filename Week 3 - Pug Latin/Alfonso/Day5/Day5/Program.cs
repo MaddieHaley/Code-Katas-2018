@@ -13,13 +13,14 @@ namespace Day5
         static void Main(string[] args)
         {
             Console.WriteLine("Enter a word to be translated into Pig Latin!");
-            Console.WriteLine(PigLatin(Console.ReadLine()));
+            Console.WriteLine(PigLatin(Console.ReadLine().ToLower()));
+            Console.ReadLine();
             Console.ReadLine();
         }
         public static string PigLatin(string resp)
         {
             string translated = "";
-            string[] words = resp.ToLower().Split(' ');
+            string[] words = resp.Split(' ');
             foreach (string item in words)
             {
                 translated = translated + Translate(item) + " ";
