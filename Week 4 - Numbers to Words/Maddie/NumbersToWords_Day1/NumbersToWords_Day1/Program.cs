@@ -202,6 +202,144 @@ namespace NumbersToWords_Day1
                 default : return "ERROR IN TRANSLATE ONES";
             }
         }
+
+        public static string wordsToNums(string words)
+        {
+            var filteredWords = filterUnnecessary(words);
+            var groupedWords = filteredWords.Split(',');
+            var ret = "";
+            foreach(var word in groupedWords)
+            {
+                ret+=translateWord(word.Trim());
+            }
+            return ret;
+        }
+
+        static string translateWord(string word)
+        {
+            var ret = "";
+            var pieces = word.Split(' ');
+            if (word == "zero") return "0";
+            if (pieces[pieces.Length - 1] == "hundred") return translateWord(pieces[0]) + "00";
+            else{
+                foreach (var piece in pieces)
+                {
+                    if (piece == "hundred") continue;
+                    switch (piece)
+                    {
+                        case "twenty":
+                            if (Array.IndexOf(pieces, piece) == pieces.Length - 1) ret += "20";
+                            else ret += "2";
+                            continue;
+                        case "thirty":
+                            if (Array.IndexOf(pieces, piece) == pieces.Length - 1) ret += "30";
+                            else ret += "3";
+                            continue;
+                        case "forty":
+                            if (Array.IndexOf(pieces, piece) == pieces.Length - 1) ret += "40";
+                            else ret += "4";
+                            continue;
+                        case "fifty":
+                            if (Array.IndexOf(pieces, piece) == pieces.Length - 1) ret += "50";
+                            else ret += "5";
+                            continue;
+                        case "sixty":
+                            if (Array.IndexOf(pieces, piece) == pieces.Length - 1) ret += "60";
+                            else ret += "6";
+                            continue;
+                        case "seventy":
+                            if (Array.IndexOf(pieces, piece) == pieces.Length - 1) ret += "70";
+                            else ret += "7";
+                            continue;
+                        case "eighty":
+                            if (Array.IndexOf(pieces, piece) == pieces.Length - 1) ret += "80";
+                            else ret += "8";
+                            continue;
+                        case "ninty":
+                            if (Array.IndexOf(pieces, piece) == pieces.Length - 1) ret += "90";
+                            else ret += "9";
+                            continue;
+                        case "eleven":
+                            ret += "11";
+                            continue;
+                        case "twelve":
+                            ret += "12";
+                            continue;
+                        case "thirteen":
+                            ret += "13";
+                            continue;
+                        case "fourteen":
+                            ret += "14";
+                            continue;
+                        case "fifteen":
+                            ret += "15";
+                            continue;
+                        case "sixteen":
+                            ret += "11";
+                            continue;
+                        case "seventeen":
+                            ret += "17";
+                            continue;
+                        case "eighteen":
+                            ret += "18";
+                            continue;
+                        case "nineteen":
+                            ret += "19";
+                            continue;
+                        case "one":
+                            ret += "1";
+                            continue;
+                        case "two":
+                            ret += "2";
+                            continue;
+                        case "three":
+                            ret += "3";
+                            continue;
+                        case "four":
+                            ret += "4";
+                            continue;
+                        case "five":
+                            ret += "5";
+                            continue;
+                        case "six":
+                            ret += "6";
+                            continue;
+                        case "seven":
+                            ret += "7";
+                            continue;
+                        case "eight":
+                            ret += "8";
+                            continue;
+                        case "nine":
+                            ret += "9";
+                            continue;
+                        case "ten":
+                            ret += "10";
+                            continue;
+                        default: return "ERROR 2 IN TRANSLATE WORD";
+                    }
+                }
+                
+                return ret;
+            }
+        }
+
+        static string filterUnnecessary(string words)
+        {
+            words = words.Replace("-", " ");
+            words = words.Replace("thousand", "");
+            words = words.Replace("million", "");
+            words = words.Replace("billion", "");
+            words = words.Replace("trillion", "");
+            words = words.Replace("quadrillion", "");
+            words = words.Replace("quintillion", "");
+            words = words.Replace("septillion", "");
+            words = words.Replace("sextillion", "");
+            words = words.Replace("octillion", "");
+            words = words.Replace("nonillion", "");
+            words = words.Replace("decillion", "");
+            return words;
+        }
         
     }
 }
