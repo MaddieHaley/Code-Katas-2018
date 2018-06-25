@@ -8,11 +8,11 @@ namespace Day1___Week_5
 {
     class Program
     {
+        public static string numerals = "IVXLCM";
         static void Main(string[] args)
         {
             Console.WriteLine("Enter a number so that it can be translated into Roman Numerals");
-            long number = Convert.ToInt64(Console.ReadLine());
-            Console.WriteLine(Translate(number));
+            Console.WriteLine(converter(Console.ReadLine().ToUpper()));
             Console.ReadLine();
         }
         internal static Dictionary<string, string> numToRoman = new Dictionary<string, string>()
@@ -32,6 +32,20 @@ namespace Day1___Week_5
 
 
         };
+        public static string converter(string response)
+        {
+            string converted = "";
+            if (numerals.Contains(response[0]))
+            {
+                converted += toNumber(response).ToString();
+            }
+            else
+            {
+                long number = Convert.ToInt64(response);
+                converted += Translate(number);
+            }
+            return converted;
+        }
         public static string getKey(string value)
         {
             string key = numToRoman[value];
@@ -51,7 +65,12 @@ namespace Day1___Week_5
                 translated += getPart(resp, 500, "D");
                 resp = resp % 500;
             }
-            if(resp >= 100)
+            if(resp >= 400)
+            {
+                translated += "CD";
+                resp = resp % 100;
+            }
+            if(resp >= 100 && resp < 400)
             {
                 translated += getPart(resp, 100, "C");
                 resp = resp % 100;
@@ -79,6 +98,15 @@ namespace Day1___Week_5
                 string num = resp.ToString();
                 if (num[1] != '0') { translated += getKey(num[1].ToString()); }
             }
+            else
+            {
+                if (resp >= 10)
+                {
+                    translated += getPart(resp, 10, "X");
+                    resp = resp % 10;
+                }
+                if (resp > 0) { translated += getKey(resp.ToString()); }
+            }
             return translated;
         }
         public static string getPart(long resp, int value, string toAdd)
@@ -90,6 +118,46 @@ namespace Day1___Week_5
                 translate += toAdd;
             }
             return translate;
+        }
+        public static long toNumber(string word)
+        {
+            word = word.ToUpper();
+            char[] wordArray = word.ToCharArray();
+            long number = 0;
+            int index = 0;
+            foreach (char letter in wordArray)
+            {
+                if(letter == 'M')
+                {
+                    number += 1000;
+                }
+                else if(letter == 'D')
+                {
+                    number += 500;
+                }
+                else if(letter == 'C')
+                {
+                    if(wordArray[index + 1] == 'D') { number -= 100; } else { number += 100; }
+                }
+                else if(letter == 'L')
+                {
+                    number += 50;
+                }
+                else if(letter == 'X')
+                {
+                    if(wordArray[index + 1] ==  'L' || wordArray[index + 1] == 'C') { number -= 10; } else { number += 10; }
+                }
+                else if(letter == 'V')
+                {
+                    number += 5;
+                }
+                else
+                {
+                    number += 1;
+                }
+                index++;
+            }
+            return number;
         }
     }
 }

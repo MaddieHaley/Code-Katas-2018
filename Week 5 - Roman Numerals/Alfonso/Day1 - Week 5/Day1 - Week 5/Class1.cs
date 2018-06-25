@@ -13,9 +13,12 @@ namespace Day1
         [Fact]
         public void TranslatesToPigLatin()
         {
-            Assert.Equal("MMMMCCCLII", Program.Translate(4352));
-            Assert.Equal("MMMMMMMMDCCXLII", Program.Translate(8742));
-            Assert.Equal("MMDXCV", Program.Translate(2595));
+            Assert.Equal("MMMMCCCLII", Program.converter("4352"));
+            Assert.Equal("MMMMMMMMDCCXLII", Program.converter("8742"));
+            Assert.Equal("MMDXCV", Program.converter("2595"));
+            Assert.Equal("4352", Program.converter("MMMMCCCLII"));
+            Assert.Equal("8742", Program.converter("MMMMMMMMDCCXLII"));
+            Assert.Equal("2595", Program.converter("MMDXCV"));
         }
     }
 }
